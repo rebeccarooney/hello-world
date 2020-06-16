@@ -8,3 +8,4 @@ I am learning to use Git to help with our research collaborations and version co
 Two truths and a lie: I love chocolate pudding, I saw Bob Marley live, I don't know how to use R.
 
 What else is there to know? 
+A line I wrote on my local computer
